@@ -22,7 +22,7 @@ toc: true
 
 三、搭建过程
 ------------
-### 1、下载安装JDK
+## 1、下载安装JDK
 官网（https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html ）下载最新版本**JDK**（本人下载的是**jdk1.8_221**）   
 </br>
 ![image](python3-6-下的spark搭建/1.png)</br>
