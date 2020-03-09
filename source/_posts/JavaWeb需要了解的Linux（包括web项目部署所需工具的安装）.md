@@ -1,7 +1,7 @@
 ---
 title: JavaWeb需要了解的Linux（包括web项目部署所需工具的安装）
 date: 2020-03-09 15:04:30
-tags: [JavaWeb]
+tags: [JavaWeb,Linux]
 category: JavaWeb
 ---
 # Linux
